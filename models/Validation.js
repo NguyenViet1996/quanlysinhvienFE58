@@ -70,3 +70,7 @@ var Validation = function () {
     return true;
   };
 };
+
+this.kiemTraCode = function () {
+  console.log("check QR code");
+};
